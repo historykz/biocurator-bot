@@ -1,0 +1,2 @@
+# biocurator-bot
+Curator
